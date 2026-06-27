@@ -4,6 +4,16 @@
 
 ###
 
+<div data-importer="text" align="center">
+
+### 🌙 Night owl · AI student · vibe coder
+
+*"Coding by moonlight ☕ — il sonno è solo un'altra dependency che non installo mai."* 😴⚡
+
+</div>
+
+###
+
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=f3ri7.f3ri7&left_color=black&right_color=black" alt="profile views" />
 </div>
