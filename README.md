@@ -1,60 +1,49 @@
-<img
-  align="right"
-  height="280"
-  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjgwMmU3Y3RmMWl6dmdtc2hkdHhmY2RrNTR4dnpvZ2Q0NGZrbDBocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BYgvpiJqjXBFC/giphy.gif"
-  alt="coding gif"
-/>
-
-# Hey, I'm Federico 👋
-
-### 🤖 AI Student · 📸 Photographer · ⚡ Vibe Coder
-
-```text
-🎓  Still a student — learning every single day
-🤖  Passionate about AI, always keeping up with the latest in tech
-🎨  Big fan of vibe coding — building fast, feeling the flow
-📷  Into photography in my free time
-🌱  Always in learning mode
-```
-
 <br clear="both">
 
----
+<img data-importer="image" align="right" height="506" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjgwMmU3Y3RmMWl6dmdtc2hkdHhmY2RrNTR4dnpvZ2Q0NGZrbDBocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BYgvpiJqjXBFC/giphy.gif"  />
 
-## 🛠️ Tech & Tools
+###
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="vscode" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="docker" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="42" alt="discordjs" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="42" alt="chrome" />
-</p>
+<h2 data-importer="text" align="left">Hey, I'm Federico 👋 · AI Student · 📸</h2>
 
----
+###
 
-## 📊 GitHub Stats
+<h5 data-importer="text" align="left">🧠 About me<br><br>· 🎓 Still a student — learning every day<br>· 🤖 Passionate about AI and always keeping up with the latest in tech<br>· 🎨 Big fan of vibe coding — building things fast and feeling the flow<br>· 📷 Into photography in my free time<br>· 🌱 Always in learning mode</h5>
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=f3ri7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3ri7&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
+###
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=f3ri7&theme=tokyonight&hide_border=true" alt="github streak" />
-</p>
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+</div>
 
----
+###
 
-## 🌐 Let's connect
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="40" alt="discord" />
-</p>
+###
 
-<!--
-  💡 Suggerimenti:
-  - Cambia "theme=tokyonight" con: radical, dracula, gruvbox, catppuccin_mocha, ecc.
-  - Aggiungi altri social copiando il blocco <a>...</a> qui sopra.
--->
+<h1 data-importer="text" align="right"></h1>
+
+###
+
+<img data-importer="image" align="left" height="220" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXEyYXlwNTAzNzJqamJqM2ppdjRtODBnMXc3Zmpva3ZrMDI1aHh0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lZ2cGyblpJuKHeyG4d/giphy.gif"  />
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:maurodesouz?theme=booru-vivi&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
