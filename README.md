@@ -23,14 +23,12 @@
 
 ###
 
+<br clear="both">
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/galaga-contribution-graph.svg?game=galaga">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
-
-###
-
-<h1 data-importer="text" align="left"></h1>
 
 ###
