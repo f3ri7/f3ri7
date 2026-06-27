@@ -31,7 +31,7 @@
 ### 🌌 About me
 
 ```ts
-const federico = {
+const Ryuu = {
   role:    "AI student 🎓",
   vibe:    "vibe coding — fast & in the flow ⚡",
   loves:   ["artificial intelligence 🤖", "photography 📷", "anime 🌙"],
