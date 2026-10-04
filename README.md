@@ -35,9 +35,9 @@ offline  →  photography · anime · coffee
 ## 道具&nbsp; Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=py,js,nodejs,html,css,postgres,sqlite,docker,git,github,vscode,discordjs&theme=dark&perline=12" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,js,nodejs,html,css,postgres,sqlite,docker,git,github,vscode,discordjs&theme=light&perline=12" />
-  <img alt="Python, JavaScript, Node.js, HTML, CSS, PostgreSQL, SQLite, Docker, Git, GitHub, VS Code, Discord.js" src="https://skillicons.dev/icons?i=py,js,nodejs,html,css,postgres,sqlite,docker,git,github,vscode,discordjs&theme=dark&perline=12" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=py%2Cjs%2Cnodejs%2Chtml%2Ccss%2Cpostgres%2Csqlite%2Cdocker%2Cgit%2Cgithub%2Cvscode%2Cdiscordjs&theme=dark&perline=12" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cjs%2Cnodejs%2Chtml%2Ccss%2Cpostgres%2Csqlite%2Cdocker%2Cgit%2Cgithub%2Cvscode%2Cdiscordjs&theme=light&perline=12" />
+  <img alt="Python, JavaScript, Node.js, HTML, CSS, PostgreSQL, SQLite, Docker, Git, GitHub, VS Code, Discord.js" src="https://skillicons.dev/icons?i=py%2Cjs%2Cnodejs%2Chtml%2Ccss%2Cpostgres%2Csqlite%2Cdocker%2Cgit%2Cgithub%2Cvscode%2Cdiscordjs&theme=dark&perline=12" />
 </picture>
 <br/>
 <img src="https://img.shields.io/badge/Claude-1b1a19?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude" />
