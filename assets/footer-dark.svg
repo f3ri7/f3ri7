@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="1200" height="140" role="img" aria-label="Thanks for stopping by">
+  <style>
+    /* palette: dark */
+    .bg1 { stop-color: #16161b; } .bg2 { stop-color: #0b0b0d; }
+    .ink { fill: #ece8e1; } .muted { fill: #8a8690; } .accent { fill: #f472b6; }
+    .far { fill: #22222a; } .near { fill: #141418; } .seal { fill: #0e0e11; }
+
+    .mono { font-family: ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, 'Courier New', monospace; }
+    .jp   { font-family: 'Yu Mincho', 'Hiragino Mincho ProN', 'Noto Serif CJK JP', 'MS Mincho', serif; }
+
+    .breathe { animation: breathe 4s ease-in-out infinite; transform-origin: 600px 52px; transform-box: view-box; }
+    @keyframes breathe { 0%,100% { opacity: .75; } 50% { opacity: 1; } }
+  </style>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" class="bg1"/><stop offset="1" class="bg2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="140" rx="10" fill="url(#sky)"/>
+  <path class="far"  d="M0 118 L160 104 L300 112 L460 92 L600 106 L760 88 L900 104 L1050 94 L1200 108 V140 H0 Z"/>
+  <path class="near" d="M0 130 L200 122 L360 128 L520 116 L700 126 L860 114 L1020 124 L1200 118 V140 H0 Z"/>
+
+  <circle class="accent breathe" cx="600" cy="44" r="16"/>
+  <text class="seal jp" x="600" y="50" font-size="16" text-anchor="middle">竜</text>
+  <text class="muted mono" x="600" y="84" font-size="15" text-anchor="middle">thanks for stopping by  ·  またね</text>
+</svg>

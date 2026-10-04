@@ -1,120 +1,88 @@
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!-- ║              🌙  f3ri7 · night theme           ║ -->
-<!-- ╚══════════════════════════════════════════════╝ -->
+<!-- 竜 f3ri7 · ink & vermilion theme -->
 
 <div align="center">
-
-<!-- ── HEADER (your own gif) ── -->
-<img height="337" src="https://raw.githubusercontent.com/f3ri7/f3ri7/main/assets/header.gif" alt="header" />
-
-<!-- ── TYPING SUBTITLE ── -->
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&height=55&lines=Night+owl+%C2%B7+AI+student+%C2%B7+vibe+coder;Coding+by+moonlight+%E2%98%95;Always+learning%2C+always+building+%E2%9A%A1" alt="typing" />
-
-<br/>
-
-<!-- ── BADGES ── -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=f3ri7.f3ri7&left_color=black&right_color=8b5cf6&left_text=visitors" alt="profile views" />
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-8b5cf6?style=flat-square&logo=openai&logoColor=white" alt="focus" />
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Always%20Learning-302b63?style=flat-square" alt="status" />
-
-</div>
-
-<br/>
-
----
-
-<!-- ════════════════════ ABOUT ════════════════════ -->
-
-### 🌌 About me
-
-```ts
-const Ryuu = {
-  role:    "AI student 🎓",
-  vibe:    "vibe coding — fast & in the flow ⚡",
-  loves:   ["artificial intelligence 🤖", "photography 📷", "anime 🌙"],
-  mindset: "always in learning mode 🌱",
-  status:  "leveling up, one commit at a time",
-};
-```
-
-- 🎓 &nbsp;AI student — always in **learning mode**, one commit at a time
-- 🤖 &nbsp;Obsessed with **artificial intelligence** and everything new in tech
-- 🎨 &nbsp;**Vibe coding** addict: building fast, riding the flow ⚡
-- 📷 &nbsp;When I'm offline → **photography**
-- 🌙 &nbsp;Certified night owl · anime enjoyer · forever curious
-
-<br/>
-
----
-
-<!-- ════════════════════ TECH ════════════════════ -->
-
-<div align="center">
-
-### 🛠️ Tech & Tools
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-<br/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode" />
-<img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discordjs" />
-<img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="chrome" />
-
-</div>
-
----
-
-<!-- ════════════════════ GALAGA ════════════════════ -->
-
-<div align="center">
-
-### 👾 My contributions, arcade style
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f3ri7/f3ri7/output/galaga-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f3ri7/f3ri7/output/galaga-contribution-graph.svg" />
-  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/f3ri7/f3ri7/output/galaga-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/f3ri7/f3ri7/main/assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f3ri7/f3ri7/main/assets/header-light.svg" />
+  <img width="100%" alt="Ryuu — CS student, data science & AI, photography" src="https://raw.githubusercontent.com/f3ri7/f3ri7/main/assets/header-dark.svg" />
 </picture>
-
-</div>
-
----
-
-<!-- ════════════════════ STATS ════════════════════ -->
-
-<div align="center">
-
-### 📊 Stats under the moonlight
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=f3ri7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3ri7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" alt="top langs" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=f3ri7&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" alt="streak" />
+<a href="https://f3ri7.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-f3ri7.github.io-db2777?style=flat-square&labelColor=1b1a19" alt="portfolio" /></a>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=f3ri7.f3ri7&left_color=%231b1a19&right_color=%23db2777&left_text=visitors" alt="visitors" />
+<img src="https://img.shields.io/badge/based_in-Italy-db2777?style=flat-square&labelColor=1b1a19" alt="based in Italy" />
 
 </div>
 
----
+<br/>
 
-<!-- ════════════════════ SOCIALS ════════════════════ -->
-<!-- 👇 Replace "#" with your real links -->
+## 竜&nbsp; About
 
-<div align="center">
+I'm **Ryuu** — a computer science student from Italy, deep into **data science & AI**.
+I learn by building: small tools, web projects, experiments with models. Usually fast, usually late at night.
+Away from the keyboard I'm behind a camera 📷
 
-### 🌐 Find me
+```text
+now      →  studying CS, focusing on machine learning
+building →  web projects & small AI experiments
+offline  →  photography · anime · coffee
+```
 
-<a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
-<a href="https://github.com/f3ri7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+<br/>
+
+## 道具&nbsp; Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=py,js,html,css,docker,git,vscode,discordjs&theme=dark&perline=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,js,html,css,docker,git,vscode,discordjs&theme=light&perline=8" />
+  <img alt="Python, JavaScript, HTML, CSS, Docker, Git, VS Code, Discord.js" src="https://skillicons.dev/icons?i=py,js,html,css,docker,git,vscode,discordjs&theme=dark&perline=8" />
+</picture>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:302b63,100:0f0c29&height=120&section=footer" alt="footer" />
+## 作品&nbsp; Work
+
+<a href="https://github.com/f3ri7/portfolio">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/pin/?username=f3ri7&repo=portfolio&hide_border=true&bg_color=00000000&title_color=f472b6&text_color=c9c5be&icon_color=f472b6&description_lines_count=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=f3ri7&repo=portfolio&hide_border=true&bg_color=00000000&title_color=db2777&text_color=3b3835&icon_color=db2777&description_lines_count=2" />
+    <img alt="portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=f3ri7&repo=portfolio&hide_border=true&bg_color=00000000&title_color=f472b6&text_color=c9c5be&icon_color=f472b6&description_lines_count=2" />
+  </picture>
+</a>
+
+<br/><br/>
+
+## 記録&nbsp; Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/f3ri7/f3ri7/main/assets/katana-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f3ri7/f3ri7/main/assets/katana-light.svg" />
+  <img width="100%" alt="animated katana" src="https://raw.githubusercontent.com/f3ri7/f3ri7/main/assets/katana-dark.svg" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=f3ri7&show_icons=true&hide_border=true&count_private=true&custom_title=GitHub%20stats&bg_color=00000000&title_color=f472b6&text_color=c9c5be&icon_color=f472b6&ring_color=f472b6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=f3ri7&show_icons=true&hide_border=true&count_private=true&custom_title=GitHub%20stats&bg_color=00000000&title_color=db2777&text_color=3b3835&icon_color=db2777&ring_color=db2777" />
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=f3ri7&show_icons=true&hide_border=true&count_private=true&custom_title=GitHub%20stats&bg_color=00000000&title_color=f472b6&text_color=c9c5be&icon_color=f472b6&ring_color=f472b6" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com?user=f3ri7&hide_border=true&background=00000000&ring=f472b6&fire=f472b6&currStreakLabel=f472b6&currStreakNum=ece8e1&sideNums=ece8e1&sideLabels=c9c5be&dates=8a8690&stroke=3a3a42" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=f3ri7&hide_border=true&background=00000000&ring=db2777&fire=db2777&currStreakLabel=db2777&currStreakNum=1b1a19&sideNums=1b1a19&sideLabels=3b3835&dates=7a736b&stroke=d6ccbb" />
+  <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=f3ri7&hide_border=true&background=00000000&ring=f472b6&fire=f472b6&currStreakLabel=f472b6&currStreakNum=ece8e1&sideNums=ece8e1&sideLabels=c9c5be&dates=8a8690&stroke=3a3a42" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/f3ri7/f3ri7/main/assets/footer-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f3ri7/f3ri7/main/assets/footer-light.svg" />
+  <img width="100%" alt="thanks for stopping by" src="https://raw.githubusercontent.com/f3ri7/f3ri7/main/assets/footer-dark.svg" />
+</picture>
 
 </div>
