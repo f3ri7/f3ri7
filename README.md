@@ -35,10 +35,18 @@ offline  →  photography · anime · coffee
 ## 道具&nbsp; Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=py,js,html,css,docker,git,vscode,discordjs&theme=dark&perline=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,js,html,css,docker,git,vscode,discordjs&theme=light&perline=8" />
-  <img alt="Python, JavaScript, HTML, CSS, Docker, Git, VS Code, Discord.js" src="https://skillicons.dev/icons?i=py,js,html,css,docker,git,vscode,discordjs&theme=dark&perline=8" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=py,js,nodejs,html,css,postgres,sqlite,docker,git,github,vscode,discordjs&theme=dark&perline=12" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,js,nodejs,html,css,postgres,sqlite,docker,git,github,vscode,discordjs&theme=light&perline=12" />
+  <img alt="Python, JavaScript, Node.js, HTML, CSS, PostgreSQL, SQLite, Docker, Git, GitHub, VS Code, Discord.js" src="https://skillicons.dev/icons?i=py,js,nodejs,html,css,postgres,sqlite,docker,git,github,vscode,discordjs&theme=dark&perline=12" />
 </picture>
+<br/>
+<img src="https://img.shields.io/badge/Claude-1b1a19?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude" />
+<img src="https://img.shields.io/badge/ChatGPT-1b1a19?style=for-the-badge" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/Gemini-1b1a19?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
+<img src="https://img.shields.io/badge/Hugging_Face-1b1a19?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/Ollama-1b1a19?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/Chrome-1b1a19?style=for-the-badge&logo=googlechrome&logoColor=4285F4" alt="Chrome" />
+<img src="https://img.shields.io/badge/MariaDB-1b1a19?style=for-the-badge&logo=mariadb&logoColor=C0765A" alt="MariaDB" />
 
 <br/><br/>
 
