@@ -39,7 +39,8 @@ offline  →  photography · anime · coffee
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cjs%2Cnodejs%2Chtml%2Ccss%2Cpostgres%2Csqlite%2Cdocker%2Cgit%2Cgithub%2Cvscode%2Cdiscordjs&theme=light&perline=12" />
   <img alt="Python, JavaScript, Node.js, HTML, CSS, PostgreSQL, SQLite, Docker, Git, GitHub, VS Code, Discord.js" src="https://skillicons.dev/icons?i=py%2Cjs%2Cnodejs%2Chtml%2Ccss%2Cpostgres%2Csqlite%2Cdocker%2Cgit%2Cgithub%2Cvscode%2Cdiscordjs&theme=dark&perline=12" />
 </picture>
-<br/>
+
+<p>
 <img src="https://img.shields.io/badge/Claude-1b1a19?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude" />
 <img src="https://img.shields.io/badge/ChatGPT-1b1a19?style=for-the-badge" alt="ChatGPT" />
 <img src="https://img.shields.io/badge/Gemini-1b1a19?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
@@ -47,6 +48,7 @@ offline  →  photography · anime · coffee
 <img src="https://img.shields.io/badge/Ollama-1b1a19?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 <img src="https://img.shields.io/badge/Chrome-1b1a19?style=for-the-badge&logo=googlechrome&logoColor=4285F4" alt="Chrome" />
 <img src="https://img.shields.io/badge/MariaDB-1b1a19?style=for-the-badge&logo=mariadb&logoColor=C0765A" alt="MariaDB" />
+</p>
 
 <br/><br/>
 
